@@ -22,4 +22,5 @@ Desenvolvedor Front-End, apaixonado por Tecnologia e criação de conteúdo digi
 
 ## Confira nossos Posts:
 
-- [Como escrever Html e Css mais Rápido](https://www.instagram.com/p/Cg-IpV7Py56/?utm_source=ig_web_copy_link)<br/>
+- [Como escrever HTML e CSS mais Rápido](https://www.instagram.com/p/Cg-IpV7Py56/?utm_source=ig_web_copy_link)<br/>
+- [CSS: Dicas de Bordas](https://www.instagram.com/p/CiCFlPIN1aQ/?utm_source=ig_web_copy_link)<br/>
