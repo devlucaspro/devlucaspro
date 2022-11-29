@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Ribeiro👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devcodepro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ribeiro-06347520a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlucaspro/)
 
 ![DevLucasPro GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucaspro&show_icons=true&theme=radical)
 
@@ -15,4 +15,4 @@
       <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div><br/>
 
-Desenvolvedor Front-End, apaixonado por Tecnologia e criação de conteúdo digital.
+Desenvolvedor Front-End Web (HTML, CSS, JS, Bootstrap) e Desenvolvimento Mobile com React Native.
